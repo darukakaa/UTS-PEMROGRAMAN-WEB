@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "gambar":"image/baju1.jpg",
+        "nama": "Baju Muslim",
+        "harga": "Rp.105.000",
+        "ukuran": "XL",
+        "Contact":"<p> Email:adminjualanbaju.com </p> <p> Phone:123456789 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+        
+    },
+    {
+        "id":2,
+        "gambar":"image/baju2.jpg",
+        "nama": "Kaos Oversize",
+        "harga": "Rp.115.000",
+        "ukuran": "L",
+        "Contact":"<p> Email:adminjualanbaju.com </p> <p> Phone:123456789 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+        
+    },
+    {
+        "id":3,
+        "gambar":"image/baju3.jpg",
+        "nama": "Kemeja polos",
+        "harga": "Rp.125.000",
+        "ukuran": "XL",
+        "Contact":"<p> Email:adminjualanbaju.com </p> <p> Phone:123456789 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+        
+    },
+    {
+        "id":4,
+        "gambar":"image/baju4.jpg",
+        "nama": "Kemeja Flanel",
+        "harga": "Rp.120.000",
+        "ukuran": "XL",
+        "Contact":"<p> Email:adminjualanbaju.com </p> <p> Phone:123456789 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+        
+    },
+    {
+        "id":5,
+        "gambar":"image/baju5.jpg",
+        "nama": "Kemeja lengan pendek",
+        "harga": "Rp.115.000",
+        "ukuran": "L",
+        "Contact":"<p> Email:adminjualanbaju.com </p> <p> Phone:123456789 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+        
+    }
+]
